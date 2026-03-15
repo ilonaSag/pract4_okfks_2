@@ -8,6 +8,7 @@ namespace GeometryShape.Tests
         [Fact] 
         public void Test1() 
         { 
+            // TODO: Add your tests here 
             Assert.True(true); 
         } 
     } 
