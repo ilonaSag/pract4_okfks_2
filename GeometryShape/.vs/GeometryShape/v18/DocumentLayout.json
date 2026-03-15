@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "..\\TriangleTest\\UnitTest1.cs",
               "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\TriangleTest\\UnitTest1.cs",
               "RelativeToolTip": "..\\TriangleTest\\UnitTest1.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAqwOQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAUwOQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:45:21.73Z",
               "EditorCaption": ""
@@ -69,7 +69,7 @@
               "RelativeDocumentMoniker": "..\\ShapeTests\\UnitTest1.cs",
               "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\ShapeTests\\UnitTest1.cs",
               "RelativeToolTip": "..\\ShapeTests\\UnitTest1.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAAAFQAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T15:15:20.644Z"
             },
@@ -131,16 +131,6 @@
               "ViewState": "AgIAAC8AAAAAAAAAAAAuwCQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2020-03-09T14:05:11.506Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 3,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
