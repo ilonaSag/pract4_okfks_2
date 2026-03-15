@@ -25,4 +25,10 @@ jobs:
 
       - name: Tests
         run: dotnet test --no-build
+      - name: Build and Test
+    run: |
+      cd GeometryShape  
+      dotnet restore
+      dotnet build
+      dotnet test
   
