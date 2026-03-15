@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "j5eaQI+f/3A=",
+  "dgSpecHash": "lnr17nPuTmg=",
   "success": true,
   "projectFilePath": "D:\\ОК ФКС\\pr4\\GeometryShape\\RectangleTest\\RectangleTest.csproj",
   "expectedPackageFiles": [
@@ -85,14 +85,14 @@
     "C:\\Users\\if921\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\if921\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\if921\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit\\2.5.3\\xunit.2.5.3.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit\\2.6.2\\xunit.2.6.2.nupkg.sha512",
     "C:\\Users\\if921\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.analyzers\\1.4.0\\xunit.analyzers.1.4.0.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.assert\\2.5.3\\xunit.assert.2.5.3.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.core\\2.5.3\\xunit.core.2.5.3.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.extensibility.core\\2.5.3\\xunit.extensibility.core.2.5.3.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.extensibility.execution\\2.5.3\\xunit.extensibility.execution.2.5.3.nupkg.sha512",
-    "C:\\Users\\if921\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.3\\xunit.runner.visualstudio.2.5.3.nupkg.sha512"
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.analyzers\\1.6.0\\xunit.analyzers.1.6.0.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.assert\\2.6.2\\xunit.assert.2.6.2.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.core\\2.6.2\\xunit.core.2.6.2.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.extensibility.core\\2.6.2\\xunit.extensibility.core.2.6.2.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.extensibility.execution\\2.6.2\\xunit.extensibility.execution.2.6.2.nupkg.sha512",
+    "C:\\Users\\if921\\.nuget\\packages\\xunit.runner.visualstudio\\2.5.4\\xunit.runner.visualstudio.2.5.4.nupkg.sha512"
   ],
   "logs": []
 }

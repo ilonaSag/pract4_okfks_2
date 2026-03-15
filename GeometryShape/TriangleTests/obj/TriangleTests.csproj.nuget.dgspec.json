@@ -56,11 +56,11 @@
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.6.2, )"
             },
             "xunit.runner.visualstudio": {
               "target": "Package",
-              "version": "[2.5.3, )"
+              "version": "[2.5.4, )"
             }
           },
           "imports": [
