@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECA2E0B1-B3E5-4C87-BCA9-A1BE5159C514}|..\\TriangleTest\\TriangleTest.csproj|d:\\\u043E\u043A \u0444\u043A\u0441\\pr4\\triangletest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99C08171-14B5-4225-BBD4-1E050A097808}|..\\TriangleTest\\TriangleTest.csproj|d:\\\u043E\u043A \u0444\u043A\u0441\\pr4\\triangletest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C23CBAD0-FC75-48FD-9E07-1C0FDF16BF49}|..\\ShapeTests\\ShapeTests.csproj|d:\\\u043E\u043A \u0444\u043A\u0441\\pr4\\shapetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -56,9 +56,9 @@
               "RelativeDocumentMoniker": "..\\TriangleTest\\UnitTest1.cs",
               "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\TriangleTest\\UnitTest1.cs",
               "RelativeToolTip": "..\\TriangleTest\\UnitTest1.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswFwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAANcAAAAAAAAAAAAuwOQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T15:30:13.538Z",
+              "WhenOpened": "2026-03-15T15:45:21.73Z",
               "EditorCaption": ""
             },
             {
