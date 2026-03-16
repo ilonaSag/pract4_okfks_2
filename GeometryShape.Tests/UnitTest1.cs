@@ -247,7 +247,7 @@ namespace GeometryShape.Tests
         [Fact]
         public void Triangle_SideALessThanZero_Area()
         {
-            double sideA = 1;
+            double sideA = -1;
             double sideB = 4;
             double sideC = 5;
             Triangle triangle = new Triangle(sideA, sideB, sideC);
