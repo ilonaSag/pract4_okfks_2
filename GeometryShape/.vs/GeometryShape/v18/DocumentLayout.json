@@ -20,8 +20,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 517,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,6 +37,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\GeometryShape.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\GeometryShape.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAUwIAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T18:52:53.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape\\Rectangle.cs",
@@ -45,8 +58,7 @@
               "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T18:55:36.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T18:55:36.789Z"
             },
             {
               "$type": "Document",
@@ -59,19 +71,16 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-03-15T18:55:30.646Z"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 483,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "..\\GeometryShape.Tests\\UnitTest1.cs",
-              "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "..\\GeometryShape.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAowIAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T18:52:53.368Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }

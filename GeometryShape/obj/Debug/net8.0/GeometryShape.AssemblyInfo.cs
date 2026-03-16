@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeometryShape")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6f7286c3430ddf7f21e2ed7ce4bf57c4418fa59")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+728d8cc7627eff657654556693ce475bac2e34b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeometryShape")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeometryShape")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
