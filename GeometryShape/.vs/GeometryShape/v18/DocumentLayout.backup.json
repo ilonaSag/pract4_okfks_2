@@ -20,7 +20,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 719,
           "SelectedChildIndex": 3,
           "Children": [
             {
@@ -43,7 +43,7 @@
               "RelativeDocumentMoniker": "..\\GeometryShape.Tests\\UnitTest1.cs",
               "ToolTip": "D:\\\u041E\u041A \u0424\u041A\u0421\\pr4\\GeometryShape.Tests\\UnitTest1.cs",
               "RelativeToolTip": "..\\GeometryShape.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAUwIAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwvyIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T18:52:53.368Z",
               "EditorCaption": ""
@@ -75,7 +75,7 @@
           ]
         },
         {
-          "DockedWidth": 800,
+          "DockedWidth": 281,
           "SelectedChildIndex": -1,
           "Children": [
             {

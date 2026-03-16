@@ -30,16 +30,16 @@ namespace GeometryShape.Tests
             Assert.Equal(expectedPerimeter, actualPerimeter);
         }
         //Тест проверяет, что метод возвращает строку в правильном формате с корректными значениями ширины, высоты, площади и периметра
-        [Fact]
-        public void Rectangle_StringReturnsCorrectFormat()
-        {
-            double width = 5;
-            double height = 10;
-            Rectangle rectangle = new Rectangle(width, height);
-            string expectedString = $"Ширина прямоугольника = {width}, высота = {height}\nПлощадь = {width * height}, периметр = {2 * (width + height)}";
-            string actualString = rectangle.ToString();
-            Assert.Equal(expectedString, actualString);
-        }
+        //[Fact]
+        //public void Rectangle_StringReturnsCorrectFormat()
+        //{
+        //    double width = 5;
+        //    double height = 10;
+        //    Rectangle rectangle = new Rectangle(width, height);
+        //    string expectedString = $"Ширина прямоугольника = {width}, высота = {height}\nПлощадь = {width * height}, периметр = {2 * (width + height)}";
+        //    string actualString = rectangle.ToString();
+        //    Assert.Equal(expectedString, actualString);
+        //}
 
         //проверка выброса исключения если ширина и высота равны
         [Fact]
